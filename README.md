@@ -21,9 +21,9 @@ Focado em colocar a mão na massa, minhas principais habilidades incluem:
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-F05033?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/en/topics/data-science/what-is-data-wrangling)
+
 [![Estatística](https://img.shields.io/badge/Estat%C3%ADstica-F7DF1E?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF7F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/natural-language) [![IA Generativa](https://img.shields.io/badge/IA%20Generativa-333333?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 
 ---
