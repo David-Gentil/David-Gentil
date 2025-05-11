@@ -1,40 +1,59 @@
 ## Olá! Bem-vindo ao meu perfil.  👋
 
-Sou um profissional em transição de carreira para a área de Ciência de Dados, trazendo na bagagem mais de 20 anos de experiência em Gestão de Projetos com foco em planejamento em grandes empresas. Minha paixão por tecnologia e o potencial transformador dos dados me impulsionaram para essa nova jornada!
+Olá, pessoal! 👋
 
-🚀 Da Gestão de Projetos à Ciência de Dados
-Minha sólida trajetória em gestão me deu uma visão analítica sistêmica e forte capacidade de resolução de problemas – competências essenciais que agora aplico no universo dos dados. A Formação em Ciência de Dados pela Escola DNC foi fundamental para essa mudança, equipando-me com as ferramentas e conhecimentos técnicos necessários.
+Sou um profissional em **intensa transição de carreira para a área de Ciência de Dados**, trazendo na bagagem mais de 20 anos de experiência em Gestão de Projetos com foco em planejamento em grandes empresas. Minha paixão por tecnologia e o potencial transformador dos dados me impulsionaram para essa nova jornada!
 
-🛠️ Habilidades em Destaque (Ciência de Dados)
+---
+
+### 🚀 Da Gestão de Projetos à Ciência de Dados
+
+Minha sólida trajetória em gestão me deu uma **visão analítica sistêmica** e forte capacidade de **resolução de problemas** – competências essenciais que agora aplico no universo dos dados. A **Formação em Ciência de Dados pela Escola DNC** foi fundamental para essa mudança, equipando-me com as ferramentas e conhecimentos técnicos necessários.
+
+---
+
+### 🛠️ Habilidades em Destaque (Ciência de Dados)
+
 Focado em colocar a mão na massa, minhas principais habilidades incluem:
 
-Python & Bibliotecas essenciais (Pandas, NumPy, Matplotlib, Seaborn)
+* **Python** & Bibliotecas essenciais (Pandas, NumPy, Matplotlib, Seaborn)
 
-SQL & Banco de Dados
+* **SQL** & Banco de Dados
 
-Power BI para Visualização e Dashboards
+* **Power BI** para Visualização e Dashboards
 
-Análise e Tratamento de Dados (Data Wrangling)
+* **Análise e Tratamento de Dados (Data Wrangling)**
 
-Fundamentos de Estatística e Matemática
+* Fundamentos de **Estatística e Matemática**
 
-Introdução a Machine Learning, NLP e IA Generativa
+* Introdução a **Machine Learning**, **NLP** e **IA Generativa**
 
-💪 Superando Desafios
-A transição tem sido um desafio estimulante, com uma curva de aprendizado intensa em novas tecnologias e conceitos. Integrar a teoria à prática e entender como transformar dados em insights que melhoram a performance de processos e projetos é um aprendizado contínuo que me motiva diariamente.
+---
 
-📚 Formação Recente
-Formação em Ciência de Dados - Escola DNC (Concluído)
+### 💪 Superando Desafios
 
-Pós graduação em BIG DATA - FACUVALE (Em andamento)
+A transição tem sido um **desafio estimulante**, com uma curva de aprendizado intensa em novas tecnologias e conceitos. Integrar a teoria à prática e entender como transformar dados em insights que **melhoram a performance de processos e projetos** é um aprendizado contínuo que me motiva diariamente.
 
-(Para ver minha formação completa, confira meu LinkedIn!)
+---
 
-👋 Vamos Conectar?
+### 📚 Formação Recente
+
+* Formação em Ciência de Dados - Escola DNC (Concluído)
+
+* Pós graduação em BIG DATA - FACUVALE (Em andamento)
+
+*(Para ver minha formação completa, confira meu LinkedIn!)*
+
+---
+
+### 👋 Vamos Conectar?
+
 Estou empolgado para aplicar meus conhecimentos e gerar impacto! Se você busca um profissional com background sólido em gestão e novas habilidades em dados, ou apenas quer trocar ideias sobre essa área, me chame para conversar!
 
+---
 
+### Conecte-se Comigo
 
-
-
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558399343976)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-linkedin/) - *[Substitua "seu-usuario-linkedin" pelo seu nome de usuário real do LinkedIn]*
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario-instagram/) - *[Substitua "seu-usuario-instagram" pelo seu nome de usuário real do Instagram]*
