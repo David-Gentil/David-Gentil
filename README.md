@@ -1,4 +1,4 @@
-## Olá! Bem-vindo ao meu perfil.  👋
+## Sou David Gentil, Bem-vindo ao meu perfil.
 
 Olá, pessoal! 👋
 
