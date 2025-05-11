@@ -55,4 +55,6 @@ Estou empolgado para aplicar meus conhecimentos e gerar impacto! Se você busca 
 
 ### 📊 Status do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical)](https://github.com/David-Gentil)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=David-Gentil&show_icons=true&theme=radical)](https://github.com/David-Gentil)
+
+---
