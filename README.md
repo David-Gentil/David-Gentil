@@ -1,8 +1,5 @@
 ## Olá! Bem-vindo ao meu perfil.  👋
 
-<!--
-**David-Gentil/David-Gentil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Sou um profissional com sólida experiência em Gestão de Projetos, apaixonado por transformar desafios em soluções inovadoras através da tecnologia:
 
 🔭 Atualmente estou trabalhando em Gestão de Projetos com foco em planejamento,
@@ -12,3 +9,6 @@ Sou um profissional com sólida experiência em Gestão de Projetos, apaixonado 
 💬 Pergunte-me sobre Gestão de Projetos, planejamento, Dados, Power BI, Python para análise de dados, ou como a análise de dados pode gerar valor em diferentes indústrias.
 😄 Pronomes: Ele/Dele
 ⚡ Curiosidade: Tenho mais de 20 anos de experiência em grandes empresas e estou entusiasmado em combinar essa vivacidade com o potencial transformador da Ciência de Dados!
+
+<!--
+**David-Gentil/David-Gentil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
