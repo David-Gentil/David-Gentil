@@ -2,7 +2,7 @@
 
 Olá, pessoal! 👋
 
-Sou um profissional em **intensa transição de carreira para a área de Ciência de Dados**, trazendo na bagagem mais de 20 anos de experiência em Gestão de Projetos com foco em planejamento em grandes empresas. Minha paixão por tecnologia e o potencial transformador dos dados me impulsionaram para essa nova jornada!
+Sou um profissional em **transição de carreira para a área de Ciência de Dados**, trazendo na bagagem mais de 20 anos de experiência em Gestão de Projetos com foco em planejamento em grandes empresas. Minha paixão por tecnologia e o potencial transformador dos dados me impulsionaram para essa nova jornada!
 
 ---
 
