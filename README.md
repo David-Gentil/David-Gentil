@@ -8,7 +8,7 @@ Sou um profissional em **transição de carreira para a área de Ciência de Dad
 
 ### 🚀 Da Gestão de Projetos à Ciência de Dados
 
-Minha sólida trajetória em gestão me deu uma **visão analítica sistêmica** e forte capacidade de **resolução de problemas** – competências essenciais que agora aplico no universo dos dados. A **Formação em Ciência de Dados pela Escola DNC** foi fundamental para essa mudança, equipando-me com as ferramentas e conhecimentos técnicos necessários.
+Minha sólida trajetória em gestão me deu uma **visão analítica sistêmica** e forte capacidade de **resolução de problemas** – competências essenciais que agora aplico no universo dos dados. A **Formação em Ciência de Dados** foi fundamental para essa mudança, equipando-me com as ferramentas e conhecimentos técnicos necessários.
 
 ---
 
