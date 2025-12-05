@@ -2,7 +2,7 @@
 
 Olá, pessoal! 👋
 
-Sou um profissional em **apaixonada por procesos e inovação**, trazendo na bagagem mais de 20 anos de experiência em Gestão de Projetos com foco em planejamento em grandes empresas. Minha paixão por tecnologia e o potencial transformador dos dados me impulsionaram para essa nova jornada!
+Sou um profissional **apaixonado por procesos e inovação**, trazendo na bagagem mais de 20 anos de experiência em Gestão de Projetos com foco em planejamento em grandes empresas. Minha paixão por tecnologia e o potencial transformador dos dados me impulsionaram para essa nova jornada!
 
 ---
 
