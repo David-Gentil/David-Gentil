@@ -2,13 +2,13 @@
 
 Olá, pessoal! 👋
 
-Sou um profissional em **transição de carreira para a área de Ciência de Dados**, trazendo na bagagem mais de 20 anos de experiência em Gestão de Projetos com foco em planejamento em grandes empresas. Minha paixão por tecnologia e o potencial transformador dos dados me impulsionaram para essa nova jornada!
+Sou um profissional em **apaixonada por procesos e inovação**, trazendo na bagagem mais de 20 anos de experiência em Gestão de Projetos com foco em planejamento em grandes empresas. Minha paixão por tecnologia e o potencial transformador dos dados me impulsionaram para essa nova jornada!
 
 ---
 
-### 🚀 Da Gestão de Projetos à Ciência de Dados
+### 🚀 Gestão de Projetos e Ciência de Dados
 
-Minha sólida trajetória em gestão me deu uma **visão analítica sistêmica** e forte capacidade de **resolução de problemas** – competências essenciais que agora aplico no universo dos dados. A **Formação em Ciência de Dados** foi fundamental para essa mudança, equipando-me com as ferramentas e conhecimentos técnicos necessários.
+Minha trajetória em gestão me deu uma **visão analítica sistêmica** e forte capacidade de **resolução de problemas** – competências essenciais que agora aplico no universo dos dados. A **Formação em Ciência de Dados** foi fundamental para essa mudança, equipando-me com as ferramentas e conhecimentos técnicos necessários.
 
 ---
 
@@ -29,7 +29,7 @@ Focado em colocar a mão na massa, minhas principais habilidades incluem:
 
 ### 💪 Superando Desafios
 
-A transição tem sido um **desafio estimulante**, com uma curva de aprendizado intensa em novas tecnologias e conceitos. Integrar a teoria à prática e entender como transformar dados em insights que **melhoram a performance de processos e projetos** é um aprendizado contínuo que me motiva diariamente.
+Entendo essa jornada com um **desafio estimulante**, foco em aprendizado em novas tecnologias e conceitos. Integrar a teoria à prática e entender como transformar dados em insights que **melhoram a performance de processos e projetos** é um aprendizado contínuo que me motiva diariamente.
 
 ---
 
